@@ -1,0 +1,16 @@
+<style type="text/css">
+ @import url(http://fonts.googleapis.com/css?family=Condiment);
+</style>
+
+p.hipster {
+	font-family: Georgia;
+}
+h1 h2 {
+	font-family: Arial;
+}
+h1 {
+	text-transform: uppercase;
+}
+.patel {
+	font-family: Condiment;
+}
